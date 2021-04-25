@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/66505477/114955647-8497e580-9e33-11eb-8d5d-1ee89b252d13.png" width="55%" align="right">
+<img src="https://user-images.githubusercontent.com/52017988/116004336-a97d1d00-a5d8-11eb-9285-ef83493f3646.jpg" width="55%" align="right">
 
 ## Hey, My name is Alan 🤟
 
