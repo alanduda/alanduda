@@ -1,5 +1,3 @@
-<img src="https://user-images.githubusercontent.com/52017988/116004336-a97d1d00-a5d8-11eb-9285-ef83493f3646.jpg" width="55%" align="right">
-
 ## Hey, My name is Alan 🤟
 
 ## Tech Skills 🧠
