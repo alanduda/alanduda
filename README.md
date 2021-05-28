@@ -1,6 +1,6 @@
-## Hey, My name is Alan 🤟
+## Hey! 🤟
 
-## Tech Skills 🧠
+## My Tech Skills 🧠
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![ANGULAR](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
