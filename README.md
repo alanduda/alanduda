@@ -15,6 +15,7 @@
 ![PYTHON](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
 ## Most used languages 🤖
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alanduda&layout=compact&theme=radical&hide")
