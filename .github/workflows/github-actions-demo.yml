@@ -4,6 +4,11 @@ jobs:
   Explore-GitHub-Actions:
     runs-on: ubuntu-latest
     steps:
+      - uses: Platane/snk@master
+        id: snake-gif
+        with:
+          github_user_name: alanduda
+          svg_out_path: dist/github-contribution-grid-snake.svg
       - run: echo "🎉 The job was automatically triggered by a ${{ github.event_name }} event."
       - run: echo "🐧 This job is now running on a ${{ runner.os }} server hosted by GitHub!"
       - run: echo "🔎 The name of your branch is ${{ github.ref }} and your repository is ${{ github.repository }}."
@@ -15,8 +20,4 @@ jobs:
         run: |
           ls ${{ github.workspace }}
       - run: echo "🍏 This job's status is ${{ job.status }}."
-      - uses: Platane/snk@master
-          with:
-            github_user_name: platane
-            gif_out_path: dist/github-contribution-grid-snake.gif
-            svg_out_path: dist/github-contribution-grid-snake.svg
+      
