@@ -15,3 +15,8 @@ jobs:
         run: |
           ls ${{ github.workspace }}
       - run: echo "🍏 This job's status is ${{ job.status }}."
+      - uses: Platane/snk@master
+          with:
+            github_user_name: platane
+            gif_out_path: dist/github-contribution-grid-snake.gif
+            svg_out_path: dist/github-contribution-grid-snake.svg
