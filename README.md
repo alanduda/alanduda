@@ -22,4 +22,3 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alanduda&layout=compact&theme=radical&hide")
 
 ![Top Langs](https://github-readme-stats.vercel.app/api?username=alanduda&show_icons=true&count_private=true&theme=radical&hide=issues)
-
