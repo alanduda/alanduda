@@ -3,6 +3,11 @@
 [![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alan-duda-developer/)
 [![GITHUB](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alanduda)
 
+## Statistics 🤖
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alanduda&layout=compact&theme=radical&hide")
+
+![Top Langs](https://github-readme-stats.vercel.app/api?username=alanduda&show_icons=true&count_private=true&theme=radical&hide=issues)
+
 ![github contribution grid snake animation](https://raw.githubusercontent.com/alanduda/alanduda/output/github-contribution-grid-snake.svg)
 
 ## My Tech Skills 🧠
@@ -16,8 +21,3 @@
 ![PYTHON](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-
-## Most used languages 🤖
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alanduda&layout=compact&theme=radical&hide")
-
-![Top Langs](https://github-readme-stats.vercel.app/api?username=alanduda&show_icons=true&count_private=true&theme=radical&hide=issues)
