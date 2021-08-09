@@ -4,9 +4,11 @@
 [![GITHUB](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alanduda)
 
 ## Statistics 🤖
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alanduda&layout=compact&theme=radical&hide")
 
-![Top Langs](https://github-readme-stats.vercel.app/api?username=alanduda&show_icons=true&count_private=true&theme=radical&hide=issues)
+<div>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanduda&layout=compact&theme=radical&hide">
+    <img src="https://github-readme-stats.vercel.app/api?username=alanduda&show_icons=true&count_private=true&theme=radical&hide=issues">
+</div>
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/alanduda/alanduda/output/github-contribution-grid-snake.svg)
 
