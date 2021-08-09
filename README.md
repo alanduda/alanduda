@@ -1,18 +1,18 @@
-## Hey, Find Me!
+## Hey, Find Me! 🚀
 
 [![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alan-duda-developer/)
 [![GITHUB](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alanduda)
 
-## Statistics 🤖
+## Statistics 👾
 
 <div>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanduda&layout=compact&theme=radical&hide">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanduda&layout=compact&theme=radical&hide" style="height: 10px;">
     <img src="https://github-readme-stats.vercel.app/api?username=alanduda&show_icons=true&count_private=true&theme=radical&hide=issues">
 </div>
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/alanduda/alanduda/output/github-contribution-grid-snake.svg)
 
-## My Tech Skills 🧠
+## My Tech Skills 🧠💻
  
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![ANGULAR](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
