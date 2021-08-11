@@ -6,12 +6,8 @@
 ## Statistics 👾
 
 <div>
-    <img align="left" height="188px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanduda&layout=compact&theme=radical&hide">
-    <img height="188px" src="https://github-readme-stats.vercel.app/api?username=alanduda&show_icons=true&count_private=true&theme=radical&hide=issues">
-</div>
-
-<div>
-    <img align="left" width="100%" margin-bottom="10px"src="https://raw.githubusercontent.com/alanduda/alanduda/output/github-contribution-grid-snake.svg">
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanduda&layout=compact&theme=radical&hide">
+    <img src="https://github-readme-stats.vercel.app/api?username=alanduda&show_icons=true&count_private=true&theme=radical&hide=issues">
 </div>
 
 ## My Tech Skills 🧠💻
