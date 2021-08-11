@@ -6,7 +6,7 @@
 ## Statistics 👾
 
 <div>
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanduda&layout=compact&theme=radical&hide">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanduda&layout=compact&theme=radical&hide">
     <img src="https://github-readme-stats.vercel.app/api?username=alanduda&show_icons=true&count_private=true&theme=radical&hide=issues">
 </div>
 
