@@ -7,7 +7,6 @@
 
 <div>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanduda&layout=compact&theme=radical&hide">
-    <img src="https://github-readme-stats.vercel.app/api?username=alanduda&show_icons=true&count_private=true&theme=radical&hide=issues">
 </div>
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/alanduda/alanduda/output/github-contribution-grid-snake.svg)
